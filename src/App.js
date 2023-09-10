@@ -6,6 +6,8 @@ function App() {
     <div>
       <div>
         <TodoApp />
+        <TodoApp />
+        <TodoApp />
       </div>
     </div>
   );
